@@ -97,6 +97,18 @@ docker compose up
 - Each service (UI, API, Email, Analytics) can be scaled independently.
 - Communication between services is decoupled and event-driven via **Kafka**.
 ---
+## 📸 Screenshots
+
+### 🔐 Authentication Page
+![Auth Page](./screenshots/auth-page.png)
+
+### 📊 Analytics Dashboard
+![Analytics Dashboard](./screenshots/analytics-dashboard.png)
+
+### 🌐 Shorten URL Interface
+![Shorten URL](./screenshots/shorten-url.png)
+
+
 ## 📄 License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
