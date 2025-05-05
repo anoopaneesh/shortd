@@ -1,0 +1,8 @@
+# Root-level ignores
+*.log
+.env
+.DS_Store
+
+# Ignore IDE/workspace settings
+.vscode/
+.idea/
